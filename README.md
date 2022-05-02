@@ -23,7 +23,7 @@ About me:
 </div>
 
 ##
-
+### Social Media:
 <div>
   <a href="https://twitter.com/D1ng0ls" target="_blank"><img height="32" width="32" src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494477.png?token=exp=1651455433~hmac=41c0632c8b1c46c58f93eb6b3bf28e24" target="_blank"></a>
   <a href="https://instagram.com/D1ng0ls" target="_blank"><img height="32" width="32" src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494488.png?token=exp=1651455048~hmac=bd4a54c51ea7d63898873c9337908af8" target="_blank"></a>
