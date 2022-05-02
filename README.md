@@ -1,7 +1,6 @@
-### @everyone D1ng0ls is here!
+#### @everyone D1ng0ls is here!
 
-About me:
-
+### About me:
 - I'm a programming student at IFSP 🏫
 - I'm 16y 👶
 - I like cooking 👨‍🍳
