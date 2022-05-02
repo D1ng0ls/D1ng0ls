@@ -12,6 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D1ng0ls&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
+##
 ### Languages:
 <div>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -23,6 +24,7 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
+##
 ### Social Media:
 <div>
   <a href="https://twitter.com/D1ng0ls" target="_blank"><img height="32" width="32" src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494477.png?token=exp=1651455433~hmac=41c0632c8b1c46c58f93eb6b3bf28e24" target="_blank"></a>
