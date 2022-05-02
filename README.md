@@ -31,5 +31,9 @@
   <a href="https://www.youtube.com/D1ng0ls" target="_blank"><img height="32" width="32" src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494485.png?token=exp=1651455220~hmac=a2dbbb2ff96ef7eb92f54b2b592ca046" target="_blank"></a>
  	<a href="https://www.twitch.tv/D1ng0ls" target="_blank"><img height="32" width="32" src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494567.png?token=exp=1651455244~hmac=35baf3e683b12599d0bf5342051250e3" target="_blank"></a>
   <a href="https://www.reddit.com/user/D1ng0ls" target="_blank"><img height="32" width="32" src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494500.png?token=exp=1651455317~hmac=1d3583806f5357d71667130743928b2a" target="_blank"></a>
+</div>
+
+### Contanct:
+<div>
   <a href="mailto:4b4c4t3666@gmail.com" target="_blank"><img height="32" width="32" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504727.png?token=exp=1651456713~hmac=18391157a0173b96a6c45b2c562c2779" target="_blank"></a>
 </div>
