@@ -4,7 +4,7 @@
 - I'm a programming student at IFSP 🏫
 - I'm 16y 👶
 - I like cooking 👨‍🍳
-- and more 🤔
+- sample text
 
 ### Stats:
 <div>
