@@ -6,8 +6,6 @@
 - I like cooking 👨‍🍳
 - sample text
 
-### My Website for beginner programmers (only in Portuguese): <a href="http://sentora.bri.ifsp.edu.br/~bi3006026/CursosFodas/">Cursos Fodas</a>
-
 ### Stats:
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=D1ng0ls&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br>
