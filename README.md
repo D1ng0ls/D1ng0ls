@@ -2,9 +2,11 @@
 
 ### About me:
 - I'm a programming student at IFSP 🏫
-- I'm 17y 👶
+- I'm 18y 👶
 - I like cooking 👨‍🍳
 - sample text
+
+### My Portfolio: <a href="https://d1ng0ls.github.io/Portfolio/">https://d1ng0ls.github.io/Portfolio/</a>
 
 ### Stats:
 <div>
