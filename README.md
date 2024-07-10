@@ -2,7 +2,7 @@
 
 ### About me:
 - I'm a programming student at IFSP 🏫
-- I'm 18y 👶
+- I'm 19y 👶
 - I like cooking 👨‍🍳
 - sample text
 
