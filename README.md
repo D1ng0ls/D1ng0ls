@@ -28,9 +28,9 @@
 ##
 ### Social media:
 <div>
-  <a href="https://twitter.com/D1ng0ls" target="_blank"><img height="32" width="32" src="twitter.png" target="_blank"></a>
-  <a href="https://instagram.com/D1ng0ls" target="_blank"><img height="32" width="32" src="instagram.png" target="_blank"></a>
-  <a href="https://www.youtube.com/D1ng0ls" target="_blank"><img height="32" width="32" src="youtube.png" target="_blank"></a>
+  <a href="https://www.twitter.com/D1ng0ls" target="_blank"><img height="32" width="32" src="twitter.png" target="_blank"></a>
+  <a href="https://www.instagram.com/D1ng0ls" target="_blank"><img height="32" width="32" src="instagram.png" target="_blank"></a>
+  <a href="https://www.youtube.com/@D1ng0ls" target="_blank"><img height="32" width="32" src="youtube.png" target="_blank"></a>
  	<a href="https://www.twitch.tv/D1ng0ls" target="_blank"><img height="32" width="32" src="twitch.png" target="_blank"></a>
   <a href="https://www.reddit.com/user/D1ng0ls" target="_blank"><img height="32" width="32" src="reddit.png" target="_blank"></a>
 </div>
