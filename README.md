@@ -6,7 +6,7 @@
 - I like cooking 👨‍🍳
 - sample text
 
-### My Portfolio: <a href="https://portfolio.dingols.com.br">https://portfolio.dingols.com.br</a>
+### My Portfolio: <a href="https://dingols.com.br/porfolio">https://dingols.com.br/portfolio</a>
 
 ### Stats:
 <div>
