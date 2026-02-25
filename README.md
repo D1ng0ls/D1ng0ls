@@ -1,36 +1,44 @@
-# @everyone D1ng0ls is here!
+# Hi, I'm Eduardo 😎
 
-### About me:
-- I'm a programming student at IFSP 🏫
-- I'm 20y 👶
-- I like cooking 👨‍🍳
-- sample text
+**Fullstack Product Engineer | Laravel & React Specialist**
 
-### My Portfolio: <a href="https://dingols.com.br">https://dingols.com.br</a>
+I’m a developer focused on building scalable, high-performance web applications. I don't just write code; I build products that solve real-world problems. Currently, I balance my time between professional development and shipping my own SaaS products.
 
-### Stats:
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=D1ng0ls&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D1ng0ls&layout=compact&langs_count=16&theme=dark"/>
-</div>
+---
 
-### Languages:
-<div>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
+### 🛠️ Tech Stack
 
-##
-### Social media:
-<div>
-  <a href="https://www.twitter.com/D1ng0ls" target="_blank"><img height="32" width="32" src="twitter.png" target="_blank"></a>
-  <a href="https://www.instagram.com/D1ng0ls" target="_blank"><img height="32" width="32" src="instagram.png" target="_blank"></a>
-  <a href="https://www.youtube.com/@D1ng0ls" target="_blank"><img height="32" width="32" src="youtube.png" target="_blank"></a>
- 	<a href="https://www.twitch.tv/D1ng0ls" target="_blank"><img height="32" width="32" src="twitch.png" target="_blank"></a>
-  <a href="https://www.reddit.com/user/D1ng0ls" target="_blank"><img height="32" width="32" src="reddit.png" target="_blank"></a>
-</div>
+- **Backend:** PHP (Laravel), Node.js, MySQL, Redis.
+- **Frontend:** React, Tailwind CSS, TypeScript, Alpine.js.
+- **DevOps & Tools:** Docker, Git, Unix, CI/CD pipelines.
+
+---
+
+### 🚀 Featured Projects
+
+#### [Freela OS](https://freelaos.dingols.com.br/) (SaaS)
+A comprehensive management platform for freelancers to handle billing, projects, and clients.
+- **Stack:** Laravel, MySQL, React, Tailwind.
+- **Key Feature:** Automated invoice generation and project tracking.
+
+#### [MyCV](https://mycv.dingols.com.br) (SaaS)
+A modern resume builder designed to help professionals stand out in the tech market.
+- **Stack:** Laravel, Inertia.js, React.
+- **Status:** In Beta/Testing phase.
+
+---
+
+### 📈 Stats & Experience
+- 🎓 **Education:** Information Systems @ IFSP.
+- 💼 **Current Focus:** Performance optimization and third-party API integrations (Payment Gateways, OTAs).
+- 🛠️ **Hardware:** I also do hardware maintenance for PCs and consoles in my spare time.
+- 👨‍🍳 **Cooking:** Undisputed best chef in my house
+
+---
+
+### 🔗 Connect with me
+- **Portfolio:** [dingols.com.br](https://dingols.com.br)
+- **LinkedIn:** [Eduardo's LinkedIn](https://www.linkedin.com/in/dingols/)
+- **Email:** [eduardo.santosnunes.esn@gmail.com](mailto:eduardo.santosnunes.esn@gmail.com)
+
+*"Code is a means, not an end. I build for the user."*
